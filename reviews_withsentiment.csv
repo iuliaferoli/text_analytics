@@ -1,0 +1,5 @@
+,id,name,price,category,review from client,review from reseller,review from client_sentiment,review from reseller_sentiment
+0,0,tooth brush,3.2,care,"very flexible and easy to reach hard places, would recommend",box is too fragile a lot of them break in transport,positive,negative
+1,1,hair dryer,25.0,hair,smells disgusting when using,selling very fast great return of value,negative,positive
+2,2,comb,2.5,hair,my favorite comb leaves hair super shiny,dissapointed with quality,positive,negative
+3,3,hair spray,5.0,style,love it,,positive,neutral
