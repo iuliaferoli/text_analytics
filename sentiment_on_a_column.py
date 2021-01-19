@@ -38,8 +38,7 @@ for name in columns:
 	#sentiments #the scores
 
 	sentiments_list = []
-	#convert the sentiment score to binary
-	#2 is positive, 1 is negative, 0 is neutral
+	#convert the sentiment score to categories
 	for i in sentiments['documents']:
 		if (i['score']>0.5) :
 			sentiments_list.append("positive")
